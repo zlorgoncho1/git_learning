@@ -1,6 +1,6 @@
 # git_learnig
 
-A new Flutter project.
+A new Flutter project to understand git and github.
 
 ## Getting Started
 
